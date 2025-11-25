@@ -1,0 +1,1970 @@
+bit.ly/3327210 
+
+
+p.3
+זהר עמיהוד
+zohar@seoreport.co.il
+052-8200-895
+
+p.12
+https://blog.google/products/gemini/guided-learning-google-gemini/
+
+p.17
+https://ariel-ac-il.zoom.us/j/83047713937
+Meeting ID: 83047713937
+Passcode: 455126
+
+p.33
+https://bit.ly/3327210
+
+p.38
+https://gemini.google.com
+https://chatgpt.com
+https://claude.ai
+
+p.39
+תסביר "איך עובד האינטרנט" שלב אחר שלב, שאל שאלות כדי לבדוק הבנה, תן לי תרגילים קצרים ותקן טעויות באופן ישיר. אם צריך, חלק את החומר לרמות או שיעורים קצרים.
+
+p.41
+https://developer.chrome.com/docs/devtools/
+
+p.42
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים הלומדים שיווק דיגיטלי. הסטודנטים לא יהיו מפתחי אתרים, לא יהיו מתכנתים.
+רשום 7 שאלות בנושא: 'ההבדל בין HTML  לבין CSS' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+p.43
+https://www.getwebinar.co.il/wp-content/uploads/2025/03/quality103-600x337.gif
+
+p.44
+https://www.getwebinar.co.il/wp-content/uploads/2025/03/quality103-600x337.gif
+
+p.49
+אני לומד/ת שיווק דיגיטלי באקדמיה ורוצה להבין למה כדאי לי ללמוד HTML  ו-CSS  במיוחד כשיש כלי AI שמייצרים קוד. אני צריך/ה עזרה בהבנת היתרונות של ידע בשפות אלה עבור משווק/ת דיגיטלי/ת.
+
+p.50
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים שרוכשים השכלה בנושאי שיווק דיגיטלי אבל לא יהיו מפתחי אתרים.
+רשום 7 שאלות בנושא: 'למה כדאי ללמוד HTML&CSS כאשר ה-AI כותב קוד מהר יותר ויעיל יותר' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+p.54
+https://code.visualstudio.com
+
+p.59
+https://code.visualstudio.com/docs
+https://code.visualstudio.com/docs/editor/codebasics
+https://code.visualstudio.com/docs/languages/html
+https://learn.microsoft.com/en-us/visualstudio/ide/use-bidirectional-languages
+https://www.youtube.com/watch?v=nORT3-kONgA
+
+p.67  |  69  |  
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+    <head>
+       <title></title>
+       <meta name="description" content="">
+       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+
+    </body>
+</html>
+
+אנגלית (משמאל לימין) או עברית (מימין לשמאל)
+<html dir="rtl" lang="he-IL">
+או
+<html dir="ltr" lang="en-US">
+
+p.72
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+  <head>
+    <title></title>
+    <meta name="description" content="" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <header>
+      <nav>
+
+      </nav>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+        
+    </footer>
+  </body>
+</html>
+
+
+p.75
+<title></title>
+
+https://www.w3schools.com/tags/tag_title.asp
+
+
+p.77
+<meta name="description" content="">
+
+https://www.w3schools.com/tags/tag_meta.asp
+
+
+p.81
+<h1></h1>
+
+https://www.w3schools.com/tags/tag_hn.asp
+
+
+p.84
+<p></p>
+
+https://www.w3schools.com/tags/tag_p.asp
+
+
+p.86
+<ol>
+  <li></li>
+  <li></li>
+</ol>
+
+<ul>
+  <li></li>
+  <li></li>
+</ul>
+
+https://code.visualstudio.com/docs/editor/emmet
+https://www.w3schools.com/tags/tag_ul.asp
+https://www.w3schools.com/tags/tag_ol.asp
+https://www.w3schools.com/tags/tag_li.asp
+
+---
+
+ul>li*3
+
+https://www.smashingmagazine.com/2021/06/custom-emmet-snippets-vscode/
+
+
+p.88
+<a href="" target="" aria-label=""></a>
+
+<a href="/blog/">הבלוג שלי</a>
+<a href="https://www.getwebinar.co.il/webinar-vs-zoom">זום וובינר</a>
+
+https://www.w3schools.com/tags/tag_a.asp
+
+
+p.94
+<ul>
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>
+
+<header>
+  <nav>
+    <ul>
+      <li><a href="">דף אחד</a></li>
+      <li><a href="">דף שניים</a></li>
+    </ul>
+  </nav>
+</header>
+
+p.100
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים שרוכשים השכלה בנושאי שיווק דיגיטלי אבל לא יהיו מפתחי אתרים.
+רשום 5 שאלות בנושא: 'ההבדל בין תגית p לתגית div ' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+
+p.103
+<img src="" alt="" aria-label="">
+
+https://www.w3schools.com/tags/tag_img.asp
+
+
+p.104
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/title
+
+
+p.105
+https://www.getwebinar.co.il/wp-content/uploads/2020/08/f16-zohar.jpg 
+
+
+p.107
+<img src="salento.jpg" alt="">
+<img src="images/salento.jpg" alt="">
+
+
+p.112
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים שרוכשים השכלה בנושאי שיווק דיגיטלי אבל לא יהיו מפתחי אתרים.
+רשום 5 שאלות בנושא: 'כתובת מוחלטת מול כתובת יחסית' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+
+p.116
+Paint.net
+IrfanView
+
+simpleimageresizer.com
+img2go.com
+photoresizer.com
+pixlr.com
+befunky.com
+
+
+p.120
+https://backlinko.com/seo-copywriting
+
+
+p.122
+<a href="">
+  <img src="" alt="">
+</a>
+
+<div>
+  <a href="">
+    <img src="" alt="">
+  </a>
+</div>
+
+
+p.123
+<video autoplay controls src="">not support</video>
+או
+<video controls loop>
+  <source src="" type="video/mp4" />
+  <source src="" type="video/ogg" />
+  הודעה שתוצג אם הדפדפן לא תומך בתגית זאת
+</video>
+
+https://www.w3schools.com/tags/tag_video.asp
+
+
+p.126
+https://youtu.be/HD-5AhCMLLI
+
+
+p.127
+<audio controls src="">not support</audio>
+
+<audio controls loop>
+  <source src="" type="audio/mpeg" />
+  <source src="" type="audio/ogg" />
+  Your browser does not support the audio tag.
+</audio>
+
+https://www.w3schools.com/tags/tag_audio.asp
+
+p.129
+https://spotify.com/ 
+it's my life bon jovi
+
+
+p.130
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+https://www.w3schools.com/tags/tag_table.asp
+
+
+p.132
+<!-- comments -->
+
+<!--
+comments
+comments
+-->
+
+<p>This is a paragraph.</p> <!-- comments -->
+
+<p>This <!-- comments --> is a paragraph.</p>
+
+
+p.137
+<form name="" action="" method="">
+</form>
+
+דוגמה
+<form name="contactForm" 
+  action="https://www.w3schools.com/action_page.php" 
+  method="get">
+</form>
+
+https://www.w3schools.com/html/html_forms_attributes.asp
+
+
+p.139
+input type="text"
+input type="email"
+input type="radio"
+input type="checkbox"
+input type="submit"
+
+input type="number"
+input type="range"
+input type="password"
+input type="url"
+input type="hidden"
+input type="tel"
+input type="image"
+input type="month"
+input type="reset"
+input type="color"
+input type="file"
+input type="search"
+input type="time"
+input type="week"
+input type="date"
+
+https://www.w3schools.com/html/html_form_input_types.asp
+
+
+p.140
+https://www.w3schools.com/html/html_form_attributes.asp
+
+
+p.141
+<label for=""></label>
+<input type="text" name="" id="" placeholder="" aria-label="">
+
+
+p.142
+<label>Click me 
+  <input type="fieldType" name="fieldName">
+</label>
+   או
+<label for="fieldId">Click me</label> 
+<input type="fieldType" name="fieldName" id="fieldId">
+
+https://www.w3.org/WAI/tutorials/forms/labels/
+https://www.w3.org/WAI/WCAG22/Techniques/html/H44.html
+
+
+p.144
+https://www.30secondsofcode.org/js/s/naming-conventions/
+https://www.linkedin.com/advice/1/how-do-you-name-html-classes-ids-skills-html
+
+
+p.145
+<input type="checkbox" name="" id="" value="">
+<label for=""></label>
+
+
+p.146
+<input type="radio" name="" id="" value="">
+<label for=""></label>
+
+
+p.147
+<input type="submit" value="" aria-label="">
+
+ או
+
+<button type="submit">!שלח עכשיו</button>
+
+
+p.149
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים שרוכשים השכלה בנושאי שיווק דיגיטלי אבל לא יהיו מפתחי אתרים.
+רשום 5 שאלות בנושא: 'מבנה בסיסי של טופס' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+
+
+
+
+
+
+=====================
+
+p.144
+https://www.w3.org/WAI/WCAG22/Techniques/html/H44.html
+
+
+
+
+
+
+
+
+
+
+
+
+p.73
+<br>
+
+https://www.w3schools.com/tags/tag_br.asp
+
+
+p.74
+&nbsp;
+
+https://www.w3schools.com/html/html_entities.asp
+
+
+p.80
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים שרוכשים השכלה בנושאי שיווק דיגיטלי אבל לא יהיו מפתחי אתרים.
+רשום 6 שאלות בנושא: 'תגיות block מול תגיות inline' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+
+
+
+p.84
+<ul>
+ <li></li>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>  
+ <li></li>
+  <ul>
+    <li></li>
+    <li></li>
+  </ul>
+</ul>
+
+
+p.95
+<tagName id="searchForm"></tagName>
+
+<a href="url#searchForm"></a>
+
+https://www.w3schools.com/html/html_links_bookmarks.asp
+
+
+p.97
+https://www.30secondsofcode.org/js/s/naming-conventions/
+https://www.linkedin.com/advice/1/how-do-you-name-html-classes-ids-skills-html
+
+
+p.98
+אתה מרצה באקדמיה בקורס HTML & CSS.
+אתה מלמד סטודנטים שרוכשים השכלה בנושאי שיווק דיגיטלי אבל לא יהיו מפתחי אתרים.
+רשום 5 שאלות בנושא: 'ההבדל בין id לבין class' ברמת קושי קל, בינוני עד מתקדם.
+שאל אותי שאלה אחת כל פעם ותן לי לענות.
+לכל שאלה הצע 4 תשובות אפשרויות.
+רק אפשרות אחת נכונה.
+לאחר שאענה, בין אם עניתי נכון או לא נכון, תרחיב על השאלה, תסביר את הרציונל שמאחוריה ותצביע על התשובה הנכונה.
+בסיום, רשום לי חוות דעת על איכות התשובות שעניתי והצע לי פעולות שעליי לעשות כדי להשתפר ולהתקדם.
+
+
+
+p.146
+<header></header>
+<nav></nav>
+<aside></aside>
+<footer></footer>
+<article></article>
+<main></main>
+<section></section>
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+
+p.152
+<ul>
+   <li><a href="" title =""></a></li>
+   <li><a href="" title =""></a></li>
+</ul>
+
+
+p.158
+העתק את הפרומט הבא:
+Create a simple "Hello, World!" webpage using HTML
+
+היכנס ל- ChatGPT או Claude
+פתח שיחה חדשה
+הדבק
+העתק את הקוד (Copy Code)
+עבור ל- Visual Studio Code
+פתח קובץ HTML חדש
+הדבק את הקוד
+שמור בשם
+הצג את העמוד
+
+=====
+העתק את הפרומט הבא:
+I would like you to write the HTML, NO CSS, NO JavaScript with whatever else needed to generate a blog homepage that adheres to these requirements:
+- the page will use a width of 1024px
+- at the top of the page will be the title in large font
+- below this should be a menu with links to 3 useful pages on the blog
+- below this will be a clickable banner advertisement that conforms to industry standard sizing
+- below this there is a section of the latest blogs, which should show the 6 latest entries
+- each blog entery with: image, title, description and modified date
+- below the latest blog entries should be an "about" section that lists information about the website founder along with their photo
+- below this should be a typical footer
+- use lorem ipsum to fill in text
+
+היכנס ל- ChatGPT או Claude
+פתח שיחה חדשה
+הדבק
+העתק את הקוד (Copy Code)
+עבור ל- Visual Studio Code
+פתח קובץ HTML חדש
+הדבק את הקוד
+שמור בשם
+הצג את העמוד
+
+======
+
+העתק את הפרומט הבא (ללא הכותרת Stage 1) המכיל הנחיות כלליות ל- AI לבניית האתר:
+Stage 1:
+I would like you to act as a frontend web developer. For the project, you’ll code a website using ONLY HTML. No CSS, No JavaScript. 
+You should include a navigation menu with links. Put the menu above the page content title. 
+Each page will include a footer at the bottom with a copyright notice and the current year. Also, include links to a privacy policy and terms of services pages. Align all the footer content as centered.
+Provide explanations for any of the code you write. 
+Write the HTML tag with its must-have, essential, recommended properties.
+Each page will be a file.
+Do you understand everything? Please reply with a yes or no answer if you understand all the requirements.
+
+היכנס ל- ChatGPT או Claude
+פתח שיחה חדשה
+הדבק
+ה- AI יחזיר תשובה: Yes
+
+העתק את הפרומט הבא (ללא הכותרת Stage 2) המנחה את הפרומט לבנות תפריט לאתר:
+Stage 2:
+Create a top navigation bar to the website "Romantic road trip around the Italian lakes". The links are external, meaning they will point to different HTML pages within the site.
+
+היכנס ל- ChatGPT או Claude
+הדבק
+ה- AI יצר קוד.
+
+העתק את הפרומט הבא (ללא הכותרת Stage 3) המנחה את הפרומט לבנות את דף הבית:
+Stage 3:
+My first request is to create the homepage of "Romantic road trip around the Italian lakes". 
+The tile of the page with an H1 tag. You should include 5 sections of content on this page, each with an H2 tag to start the section, along with several paragraph tags after that with relevant text about the Romantic road trip around the Italian lakes. Also, include an image of an Italian Lake, along with a caption that explains what the image is. This image should have a maximum width of 600px
+
+היכנס ל- ChatGPT או Claude
+הדבק
+העתק את הקוד (Copy Code)
+עבור ל- Visual Studio Code
+פתח קובץ HTML חדש
+הדבק את הקוד
+שמור בשם (תן שם שנמצא בתפריט באתר שבקוד. אולי זה index.html אולי זה homepage.html ואולי זה משהו אחר)
+הצג את העמוד
+
+באותו אופן שיצרת את עמוד הבית, צור דף נוסף באתר. איזה דף? ראה בתפריט הנמצא בדף הבית איך קוראים לדפים. זה יעזור לך לשמור בשם את הדפים הבאים.
+Stage 4:
+The Second page is <page name>....
+
+
+p.163
+color: navy; 
+font-size: 16px;
+
+
+p.164
+https://www.w3schools.com/colors/colors_names.asp
+https://www.w3schools.com/css/css_colors_rgb.asp
+https://www.w3schools.com/css/css_colors_hex.asp
+
+
+p.165
+color: red;
+color: #6a5acd;
+color: rgb(60, 179, 113);
+background-color: #9a1183;
+
+
+p.167
+style="property: value;"
+
+<p style="background-color: navy; color:#ff006e;">lorem ipsum</p>
+
+
+p.169
+https://colormax.org/color-blind-test
+
+
+p.170
+https://webaim.org/resources/contrastchecker/
+
+https://www.clalit.co.il/he/your_health/family/eyes/Pages/colourblindness.aspx
+
+
+p.171
+<span></span>
+
+<p>A fairy tale <span style="color: purple;">adventure</span> about a beautiful young woman and her one true love. He must find her after a long separation and save her.</p>
+
+
+p.173
+<div></div>
+
+<div style="background-color: grey; border: red solid 2px;">
+  <p>
+    A fairy tale <span style="color: purple">adventure</span> about a beautiful
+    young woman and her one true love. He must find her after a long separation
+    and save her.
+  </p>
+  <p>
+    Adapted by William Goldman from his 1973 novel, it tells the story of a
+    swashbuckling farmhand named Westley, accompanied by companions befriended
+    along the way, who must rescue his true love Princess Buttercup from the
+    odious Prince Humperdinck.
+  </p>
+  <p>
+    A grandfather reads a novel to his sick grandson, who initially dismisses
+    the story.
+  </p>
+</div>
+
+
+
+p.177
+<style>
+p {
+  color: #af6e95;
+  font-size: 16px;
+}
+</style>
+
+
+<style>
+h1, div, ul {
+  color: navy;
+}
+</style>
+
+
+p.179
+<style>
+p {
+  color: navy;
+  font-size: 16px;
+}
+</style>
+
+
+p.180
+<style>
+.noteBox {
+  color: navy;
+  font-size: 16px;
+}
+</style>
+
+<p class="noteBox">lorem ipsum</p>
+
+
+p.181
+<style>
+.subTitle {
+  color: navy;
+  font-size: 16px;
+}
+.getInTouch { color: red; }
+</style>
+
+<p class="subTitle">lorem ipsum</p>
+
+<p class="getInTouch">lorem ipsum</p>
+
+
+p.182
+https://elementor.com/blog/class-in-css/
+
+
+p.183
+https://en.bem.info/methodology/quick-start/
+https://www.30secondsofcode.org/js/s/naming-conventions/
+https://www.linkedin.com/advice/1/how-do-you-name-html-classes-ids-skills-html
+
+p.185
+<style>
+.textColor {
+  color: navy;
+}
+.fontSizeMedium {
+  font-size: 16px;
+}
+</style>
+
+<p class="textColor fontSizeMedium">lorem ipsum</p>
+
+<p class="fontSizeMedium">lorem ipsum</p>
+
+
+p.187
+<style>
+#jobTitle {
+  color: navy;
+  font-size: 16px;
+}
+</style>
+
+<p id="jobTitle">lorem ipsum</p>
+
+
+p.189
+<style>
+.sign-in {
+  color: navy;
+  font-size: 16px;
+}
+</style>
+
+<p class="sign-in">lorem ipsum</p>
+
+<h1 class="sign-in">lorem ipsum</h1>
+
+---
+
+<style>
+p.sign-in {
+  color: navy;
+  font-size: 16px;
+}
+</style>
+
+<p class="sign-in">lorem ipsum</p>
+
+<h1 class="sign-in">lorem ipsum</h1>
+
+
+p.190
+<style>
+h1 {
+  color: navy;
+}
+h3 {
+  color: navy;
+}
+div {
+  color: navy;
+}
+</style>
+
+או
+
+<style>
+h1, div, h3 {
+  color: navy;
+}
+</style>
+
+
+p.191
+<style>
+div p {
+  color: navy;
+}
+</style>
+
+---
+
+<style>
+div > p {
+  color: navy;
+}
+</style>
+
+---
+
+<div>
+  <p>First</p>
+  <ul>
+    <li>
+      <p>Child Paragraph</p>
+    </li>
+  </ul>
+  <p>Second</p>
+  <p>Third</p>
+</div>
+
+
+p.193
+https://www.w3schools.com/cssref/css_selectors.php
+https://www.freecodecamp.org/news/css-selectors-cheat-sheet/
+
+
+p.194
+https://css4-selectors.com/selectors/
+
+
+p.195
+<link rel="stylesheet" href="filename.css">
+
+
+p.199
+font: arial 22px #92003b;
+background-color: #ff7be5;
+
+font-weight: bold;
+color: navy;
+letter-spacing: 1cm;
+
+
+p.200
+<link rel="stylesheet" href="draft.css">
+
+<link rel="stylesheet" href="draft.css">
+
+
+p.203
+padding: 25px 42px 75px 84px;
+margin: 10px 17px 12px 50px;
+border: #ffa8b3 solid 4px;
+
+https://www.w3schools.com/css/css_padding.asp
+https://www.w3schools.com/css/css_margin.asp
+https://www.w3schools.com/css/css_border.asp
+
+
+p.205
+.textBox {
+      padding: 0px;
+      border: red solid 0px;
+      margin: 0px;
+}
+    
+.contentWrap {
+      background-color: yellow;
+}
+    
+<div class="textBox">
+  <span class="contentWrap">bla bla bla</span>
+</div>
+
+
+p.207
+text-align: left;
+text-align: center;
+text-align: right;
+text-align: justify;
+
+direction: ltr;
+direction: rtl;
+
+
+p.209
+width: 65px;
+width: 40%;
+
+
+p.211
+width:560px;
+margin: auto;
+
+
+p.213
+width: 240px; 
+margin: auto;
+
+width: 240px; 
+margin: auto; 
+text-align: center;
+
+width: 240px;
+
+width: 240px; 
+text-align: center;
+
+
+p.215
+box-sizing: content-box; 
+
+box-sizing: border-box;
+
+https://www.w3schools.com/cssref/css3_pr_box-sizing.php
+
+
+p.217
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+
+p.218
+font
+font-family
+font-size
+font-style
+font-variant
+font-weight
+
+
+p.219
+https://www.linkedin.com/pulse/font-size-units-responsive-web-design-kristen-joseph/
+
+
+p.221
+https://simplecss.eu/pxtoems.html
+
+
+p.223
+https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
+
+
+p.224
+https://adagetechnologies.com/style-guide-elements/
+
+
+p.226
+https://www.w3schools.com/css/css3_gradients.asp
+https://www.w3schools.com/css/css3_gradients_radial.asp
+https://cssgradient.io/
+
+
+p.227
+https://developer.mozilla.org/en-US/docs/Web/CSS/Inheritance
+
+
+p.228
+<div style="font-size: 8px;">
+<p>let it be</p>
+</div>
+
+<div style="font-size: 8px;">
+<h1>let it be</h1>
+</div>
+
+<div style="color: red;">
+<h1>let it be</h1>
+</div>
+
+
+p.229
+property: value !important;
+
+color: purple !important;
+
+
+p.230
+.authorDesc { color: blue; font-size: 16px; }
+.authorDesc::first-line { color: red; }
+.authorDesc::first-letter {
+  color: white;
+  background-color: black;
+  font-size: 25px;
+}
+
+
+p { color:blue; font-size:12px; }
+p::first-line { color:red; }
+p::first-letter { color:white; background-color:black; font-size:25px; }
+
+p.231
+מָעוֹז צוּר יְשׁוּעָתִי לְךָ נָאֶה לְשַׁבֵּחַ
+תִּכּוֹן בֵּית תְּפִלָּתִי וְשָׁם תּוֹדָה נְזַבֵּחַ
+לְעֵת תָּכִין מַטְבֵּחַ מִצָּר הַמְנַבֵּחַ
+אָז אֶגְמֹר בְּשִׁיר מִזְמוֹר חֲנֻכַּת הַמִּזְבֵּחַ
+
+רָעוֹת שָׂבְעָה נַפְשִׁי בְּיָגוֹן כֹּחִי כָּלָה
+חַיַּי מֵרְרוּ בְקֹשִׁי בְּשִׁעְבּוּד מַלְכוּת עֶגְלָה
+וּבְיָדוֹ הַגְּדוֹלָה הוֹצִיא אֶת הַסְּגֻלָּה
+חֵיל פַּרְעֹה וְכָל זַרְעוֹ יָרְדוּ כְּאֶבֶן בִּמְצוּלָה
+
+דְּבִיר קָדְשׁוֹ הֱבִיאַנִי וְגַם שָׁם לֹא שָׁקַטְתִּי
+וּבָא נוֹגֵשׂ וְהִגְלַנִי כִּי זָרִים עָבַדְתִּי
+וְיֵין רַעַל מָסַכְתִּי כִּמְעַט שֶׁעָבַרְתִּי
+קֵץ בָּבֶל זְרֻבָּבֶל לְקֵץ שִׁבְעִים נוֹשַׁעְתִּי
+
+כְּרוֹת קוֹמַת בְּרוֹשׁ בִּקֵּשׁ אֲגָגִי בֶּן הַמְּדָתָא
+וְנִהְיָתָה לוֹ לְפַח וּלְמוֹקֵשׁ וְגַאֲוָתוֹ נִשְׁבָּתָה
+רֹאשׁ יְמִינִי נִשֵּׂאתָ וְאוֹיֵב שְׁמוֹ מָחִיתָ
+רֹב בָּנָיו וְקִנְיָנָיו עַל הָעֵץ תָּלִיתָ
+
+יְוָנִים נִקְבְּצוּ עָלַי אֲזַי בִּימֵי חַשְׁמַנִּים
+וּפָרְצוּ חוֹמוֹת מִגְדָּלַי וְטִמְּאוּ כָּל הַשְּׁמָנִים
+וּמִנּוֹתַר קַנְקַנִּים נַעֲשָׂה נֵס לַשּׁוֹשַׁנִּים
+בְּנֵי בִינָה יְמֵי שְׁמוֹנָה קָבְעוּ שִׁיר וּרְנָנִים
+
+
+p.232
+::after
+::before
+::first-letter
+::first-line
+::selection
+
+:link
+:visited
+:active
+:hover
+:first-child
+:last-child
+:nth-child(n)
+:only-child
+
+https://www.w3schools.com/css/css_pseudo_classes.asp
+https://www.w3schools.com/css/css_pseudo_elements.asp
+
+
+p.235
+relative
+absolute
+static
+fixed
+sticky
+
+https://www.w3schools.com/css/css_positioning.asp
+
+
+p.236
+<style>
+#box1 {
+width: 400px;
+height: 200px;
+background-color: blue;
+}
+</style>
+<div id="box1"></div>
+
+
+p.237
+<style>
+#box1 {
+width: 400px;
+height: 200px;
+background-color: blue;
+}
+#box2 {
+width: 120px;
+height: 70px;
+background-color: orange;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+
+
+p.238
+<style>
+#box1 {
+width: 400px;
+height: 200px;
+background-color: blue;
+}
+#box2 {
+width: 120px;
+height: 70px;
+background-color: orange;
+}
+#box3 {
+width: 300px;
+height: 100px;
+background-color: green;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.240
+#box2 {
+position: relative;
+top: 40px;
+right: 100px;
+width: 120px;
+height: 70px;
+background-color: orange;
+}
+
+
+p.241
+#box2 {
+position: absolute;
+top: 40px;
+right: 100px;
+width: 120px;
+height: 70px;
+background-color: orange;
+}
+
+
+p.242
+<style>
+#box1 {
+width: 400px;
+height: 200px;
+background-color: blue;
+}
+#box2 {
+width: 120px;
+height: 70px;
+background-color: orange;
+}
+#box3 {
+width: 300px;
+height: 100px;
+background-color: green;
+}
+#box1, #box2, #box3 {
+position: absolute;
+top: 40px;
+right: 100px;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.244
+<style>
+#box1 {
+width: 400px;
+height: 200px;
+background-color: blue;
+}
+#box2 {
+width: 120px;
+height: 70px;
+background-color: orange;
+}
+#box3 {
+width: 300px;
+height: 100px;
+background-color: green;
+}
+#box1, #box2, #box3 {
+position: relative;
+top: 40px;
+right: 100px;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.246
+https://www.w3schools.com/css/css_float.asp
+
+
+p.247
+<style>
+#box1 {
+width: 100px;
+height: 100px;
+background-color: blue;
+}
+#box2 {
+width: 100px;
+height: 100px;
+background-color: orange;
+}
+#box3 {
+width: 100px;
+height: 100px;
+background-color: green;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.248
+<style>
+#box1 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: blue;
+}
+#box2 {
+width: 100px;
+height: 100px;
+background-color: orange;
+}
+#box3 {
+width: 100px;
+height: 100px;
+background-color: green;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.249
+<style>
+#box1 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: blue;
+}
+#box2 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: orange;
+}
+#box3 {
+width: 100px;
+height: 100px;
+background-color: green;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.250
+<style>
+#box1 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: blue;
+}
+#box2 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: orange;
+}
+#box3 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: green;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+
+
+p.252
+<style>
+#box1 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: blue;
+}
+#box2 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: orange;
+}
+#box3 {
+float: left;
+width: 100px;
+height: 100px;
+background-color: green;
+}
+</style>
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+<p>זהר עמיהוד</p>
+
+
+p.253
+.clear {
+    clear: both;
+}
+
+<div id="box1"></div>
+<div id="box2"></div>
+<div id="box3"></div>
+<div class="clear"></div>
+<p>זהר עמיהוד</p>
+
+
+p.254
+.btnLearnMore {
+  background-color: black;
+  border-radius: 25px;
+  color: white;
+  padding: 10px 15px 10px 15px;
+  text-align: center;
+  display: block;
+  text-decoration: none;
+  font-size: 20px;
+  width: fit-content;
+}
+
+.btnLearnMore:hover {
+  background-color: white;
+  border: 2px solid black;
+  color: black;
+}
+
+<div>
+  <a href="" class="btnLearnMore">Learn More</a>
+</div>
+
+
+p.257
+https://elementor.com/help/custom-css-pro/
+https://elementor.com/help/css-selectors-in-elementor/
+
+
+p.261
+http://gs.statcounter.com/screen-resolution-stats
+
+
+p.263
+https://text.org.il/
+
+
+p.264
+https://www.facebook.com/
+https://m.facebook.com/
+
+
+p.266
+https://support.google.com/webmasters/answer/6352293?hl=iw
+
+https://developers.google.com/search/docs/crawling-indexing/mobile/mobile-sites-mobile-first-indexing
+
+
+p.268
+https://www.browserstack.com/responsive
+
+
+p.270
+<ul>
+   <li><a href="" title ="">דף הבית</a></li>
+   <li><a href="" title ="">פרחים</a></li>
+   <li><a href="" title ="">עציצים</a></li>
+   <li><a href="" title ="">שוקולד</a></li>
+   <li><a href="" title ="">בלוג</a></li>
+   <li><a href="" title ="">צור קשר</a></li>
+</ul>
+
+
+p.271
+<nav class="navbar">
+  <ul class="menu-top">
+    <li class="menu-top-item">
+      <a class="menu-top-item-link" href="">דף הבית</a>
+    </li>
+    <li class="menu-top-item">
+      <a class="menu-top-item-link" href="">אודות</a>
+    </li>
+    <li class="menu-top-item">
+      <a class="menu-top-item-link" href="">בלוג</a>
+    </li>
+    <li class="menu-top-item">
+      <a class="menu-top-item-link" href="">עבודות</a>
+    </li>
+    <li class="menu-top-item">
+      <a class="menu-top-item-link" href="">צור קשר</a>
+    </li>
+  </ul>
+</nav>
+
+
+p.274
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+ul.menu-top {
+  justify-content: space-around;
+  width: 600px;
+  list-style-type: none;
+}
+a.menu-top-item-link {
+  color: black;
+  text-decoration: none;
+}
+a.menu-top-item-link:hover {
+  color: navy;
+}
+
+
+p.275
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+ul.menu-top {
+ justify-content: space-around;
+ display: flex;
+ flex-direction: row;
+ width: 600px;
+ list-style-type: none;
+}
+a.menu-top-item-link {
+  color: black;
+  text-decoration: none;
+}
+a.menu-top-item-link:hover {
+  color: navy;
+}
+
+
+p.276
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+.navbar {
+   height: 40px;
+   background-color: #f9e7cf;
+   justify-content: space-between;
+   align-items: center;
+}
+
+ul.menu-top {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ width: 600px;
+ list-style-type: none;
+}
+a.menu-top-item-link {
+  color: black;
+  text-decoration: none;
+}
+
+a.menu-top-item-link:hover {
+  color: navy;
+}
+
+
+p.278
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+.navbar {
+   height: 40px;
+   background-color: white;
+   justify-content: space-between;
+   align-items: center;
+}
+
+ul.menu-top {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ width: 600px;
+ list-style-type: none;
+}
+li.menu-top-item {
+  text-align: center;
+  width: 100%;
+  border-left: 2px solid #3ca0e7;
+}
+
+a.menu-top-item-link {
+  color: black;
+  text-decoration: none;
+}
+
+a.menu-top-item-link:hover {
+  color: navy;
+} 
+
+
+p.280
+ display: flex;
+ flex-direction: row;
+
+ display: flex;
+ flex-direction: column;
+
+https://blog.logrocket.com/css-flexbox-vs-css-grid/
+https://www.youtube.com/watch?v=3elGSZSWTbM
+
+
+p.281
+
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.cell {
+  width: 33.33%;
+  padding: 6px;
+  border: navy solid 1px;
+}
+
+<div class="row">
+  <div class="cell">
+    1
+  </div>
+  <div class="cell">
+    2
+  </div>
+  <div class="cell">
+    3
+  </div>
+</div>
+
+
+p.283
+@media (max-width: 768px) {
+
+}
+
+@media (max-width: 768px) {
+   .cell { background-color: lightblue; }
+}
+
+
+p.284
+@media (min-width: 768px) {
+
+}
+
+
+p.285
+@media (max-width: 767px) { … }
+@media (min-width: 768px) { … }
+@media (min-width: 1200px) { … }
+
+https://elementor.com/help/global-layout-settings/
+https://elementor.com/help/additional-breakpoints/
+
+
+p.287
+@media (min-width: 768px) and (max-width:1199px) { … }
+
+@media (max-width:767px) { … }
+@media (min-width: 768px) and (max-width: 1199px) { … }
+@media (min-width: 1200px) { … }
+
+
+p.288
+/* common styles only */
+
+/* mobile styles only */
+@media (max-width: 767px) { … }
+
+/* tablet styles only */
+@media (min-width: 768px) and (max-width:1199) { … }
+
+/* desktop styles only */
+@media (min-width: 1200px) { … }
+
+/* mobile AND tablet styles */
+@media (max-width: 767px), (min-width: 768px) and (max-width:1199) { … }
+
+
+p.289
+
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.cell {
+  width: 33.33%;
+  padding: 6px;
+  border: navy solid 1px;
+}
+
+@media (max-width: 768px) {
+ .row { flex-direction: column; }
+ .cell { width:100%;}
+}
+
+
+<div class="row">
+  <div class="cell">
+    1
+  </div>
+  <div class="cell">
+    2
+  </div>
+  <div class="cell">
+    3
+  </div>
+</div>
+
+
+p.290
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.one-third {
+  width: 33.33%;
+  padding: 6px;
+  border: navy solid 1px;
+}
+
+@media (max-width: 768px) {
+ .row { flex-direction: column; }
+ .one-third { width:100% }
+}
+
+<div class="row">
+  <div class="one-third">
+    1
+  </div>
+  <div class="one-third">
+    2
+  </div>
+  <div class="one-third">
+    3
+  </div>
+</div>
+
+
+p.293
+How TO - Responsive  Image
+https://www.w3schools.com/howto/howto_css_image_responsive.asp
+
+How TO - Responsive iframe
+https://www.w3schools.com/howto/howto_css_responsive_iframes.asp
+
+
+p.294
+https://elementor.com/library/template-kit/digital-marketing-agency-website-kit-2/preview/
+
+
+p.297
+https://elementor.com/blog/website-layout-ideas/
+https://elementor.com/blog/category/design/
+https://elementor.com/blog/wireframe-website/
+
+
+
+
+p.300, 301, 302
+* {
+padding: 0px;
+margin: 0px;
+box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.one-full {
+  width: 100%;
+}
+.one-half {
+  width: 50%;
+}
+.one-third {
+  width: 33.33%;
+}
+.two-third {
+  width: 66.66%;
+}
+.one-fourth {
+  width: 25%;
+}
+
+.three-fourth {
+  width: 75%;
+}
+.one-fifth {
+  width: 20%;
+}
+.two-fifth {
+  width: 40%;
+}
+.three-fifth {
+  width: 60%;
+}
+.four-fifth {
+  width: 80%;
+}
+
+.one-full,
+.one-half,
+.one-third,
+.two-third,
+.one-fourth,
+.three-fourth,
+.one-fifth,
+.two-fifth,
+.three-fifth,
+.four-fifth {
+padding: 6px;
+border: 1px solid gray;
+}
+
+@media (max-width: 768px) {
+   .row {
+        flex-direction: column;
+    }
+ 
+   .one-full, .one-half, .one-third, .two-third, .one-fourth, .three-fourth,.one-fifth, .two-fifth, .three-fifth, .four-fifth {
+       width: 100%;
+    }
+}
+
+
+p.305
+<nav class="navbar">
+  <div class="burger-icon">
+     <div class="burger-line"></div>
+     <div class="burger-line"></div>
+     <div class="burger-line"></div>
+  </div>
+
+.burger-icon {
+   height: 28px;
+   width: 32px;
+}
+
+.burger-line {
+   background-color: black;
+   height: 4px;
+   margin-top: 4px;
+   width: 100%;
+}
+
+
+p.307
+display: none;
+
+
+p.309
+.burger-icon {
+   display: block !important;
+}
+
+ul.menu-top {
+   display: none !important;
+}
+
+
+p.313
+<div class="row">
+  <div class="one-full">
+  </div>
+</div>
+
+<div class="row">
+  <div class="one-half">
+  </div>
+  <div class="one-half">
+  </div>
+</div>
+
+<div class="row">
+  <div class="one-third">
+  </div>
+  <div class="one-third">
+  </div>
+  <div class="one-third">
+  </div>
+</div>
+
+<div class="row">
+  <div class="one-fourth">
+  </div>
+  <div class="one-fourth">
+  </div>
+  <div class="one-fourth">
+  </div>
+  <div class="one-fourth">
+  </div>
+</div>
+
+
+p.314
+<div class="row">
+  <div class="one-half">
+  </div>
+  <div class="one-fourth">
+  </div>
+  <div class="one-fourth">
+  </div>
+</div>
+
+<div class="row">
+  <div class="one-third">
+  </div>
+  <div class=“two-third">
+  </div>
+</div>
+
+<div class="row">
+  <div class="one-fourth">
+  </div>
+  <div class="one-half">
+  </div>
+  <div class="one-fourth">
+  </div>
+</div>
+
+עמוד 324
+עד פה תכני הקורס
+
+
+schema
+
+p.345
+https://developers.google.com/search/docs/advanced/structured-data/event
+
+
+p.346
+https://developers.google.com/search/docs/advanced/structured-data/faqpage
+
+
+p.348
+https://schema.org/
+
+
+p.349
+https://schema.org/docs/full.html
+
+
+p.351
+https://developers.google.com/search/docs/advanced/structured-data/intro-structured-data
+
+
+p.354
+https://www.searchbloom.com/tools/schema-markup-generator-tool/
+https://validator.schema.org
+
+
+p.355
+https://developers.google.com/search/docs/appearance/structured-data
+https://developers.facebook.com/tools/debug/
+https://webmaster.yandex.com/tools/microtest/
+http://www.bing.com/toolbox/markup-validator
+
+
+p.356
+https://search.google.com/test/rich-results
+https://www.zappos.com
+
+
+p.357
+https://search.google.com/test/rich-results
+https://www.rei.com
+
+
+p.359
+https://developers.google.com/search/docs/advanced/structured-data/search-gallery
+
+
+p.360
+https://www.google.com/webmasters/markup-helper
+
+
+p.362
+https://www.google.com/webmasters/markup-helper
+
+
+p.363
+https://search.google.com/test/rich-results
+
+
+p.364
+https://search.google.com/test/rich-results
+
+
+p.365
+https://www.allrecipes.com/
+https://search.google.com/test/rich-results
+
+
+
+p.366
+https://www.schemaapp.com/solutions/integrations/wordpress-plugin/
+
+
+p.367
+https://developers.google.com/search/docs/appearance/structured-data/sd-policies
+
+
+p.368
+technicalseo.com/tools/schema-markup-generator
+searchbloom.com/tools/schema-markup-generator-tool/
+rankranger.com/schema-markup-generator
+hallanalysis.com/json-ld-generator
+videoschema.com
+https://webcode.tools/structured-data-generator
+saijogeorge.com/json-ld-schema-generator
+
+
+p.369
+https://technicalseo.com/tools/schema-markup-generator/
+
+
+p.371
+https://search.google.com/test/rich-results 
+
+
+
